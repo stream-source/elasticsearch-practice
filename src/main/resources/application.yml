@@ -1,0 +1,10 @@
+server:
+  port: 8096
+spring:
+  application:
+    name: elasticsearch
+
+elasticsearch:
+  host: 10.0.201.21
+  port: 9200
+  scheme: http
